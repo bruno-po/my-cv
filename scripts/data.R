@@ -10,6 +10,8 @@ jobs <- tribble(
   ~role, ~company, ~where, ~start_date, ~end_date, ~details,
   'Senior Data Scientist', 'XP Inc', 'São Paulo/SP', 'Out/21', 'Jan/23', 'Parte do time de desenvolvimento da AIA (Assistente de Inteligência Artificial da Clear)',
   'Senior Data Scientist', 'XP Inc', 'São Paulo/SP', 'Out/21', 'Jan/23', 'Modelagem de churn e criação de jornada de retenção de novos clientes BMF',
+  'Senior Data Scientist', 'XP Inc', 'São Paulo/SP', 'Out/21', 'Jan/23', 'Tutoria para áreas de negócio sobre aplicação de machine learning e uso do XPLearn',
+  'Tutor de Data Science', 'Sirius', 'Belo Horizonte/MG', 'Jun/22', 'Set/22', 'Tutoria no Fellowship de Data Science da Sirius',
   'Data Scientist, Credit Modeling', 'Stone Co', 'São Paulo/SP', 'Out/19', 'Set/21', 'Dono e responsável (desenvolvimento e deploy) pelo modelo de behaviour score e pelo monitoramento da cobrança',
   'Data Scientist, Credit Modeling', 'Stone Co', 'São Paulo/SP', 'Out/19', 'Set/21', 'Clusterização dos contratos em cobrança',
   'Data Scientist, Credit Modeling', 'Stone Co', 'São Paulo/SP', 'Out/19', 'Set/21', 'Contribuição no desenvolvimento do modelo de credit score',
